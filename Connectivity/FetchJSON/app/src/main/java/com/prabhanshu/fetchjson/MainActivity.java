@@ -33,7 +33,7 @@ import java.net.URL;
 
 public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
-    private static final String fetchURL = "http://api.openweathermap.org/data/2.5/weather?q=Delhi,IN&appid=bd82977b86bf27fb59a04b61b657fb6f";
+    private static final String fetchURL = "http://api.openweathermap.org/data/2.5/weather?q=Delhi,IN&appid=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
     private static final String TAG = "GratuityTucci";
 
     @Override
